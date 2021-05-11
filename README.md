@@ -1,2 +1,4 @@
 # CoDoH
-ELE316T/ELE554T DCN
+
+![Hate Free Comment](https://github.com/siddarth-c/CoDoH/blob/main/Poster.png "Title")
+
